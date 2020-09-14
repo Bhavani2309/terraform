@@ -1,7 +1,7 @@
 subscription_id = "4955c3c7-01b8-48c7-bdce-747a55cf147b"
 tenant_id = "5be55d85-32f3-4a29-8c6a-de0ea5336262"
 client_id = "4355431a-70c8-437e-b84b-a6223d609f36"
-client_secret = "V9.KrNfm.4.955oHd9vnIERCXCM-7n5gQi"
+#client_secret = ""
 resourcegroup_name = "bhavaniTest"
 location="eastus2"
 storage_name="tfbhavani"
